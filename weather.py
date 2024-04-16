@@ -14,7 +14,7 @@ def weather(city):
     s_city = city
     city_id = 501175
     # Тут пишется ваш API OPEN WEATHER:
-    appid = "55d5f6d2f5c586d363fa1689e4c0551e"
+    appid = ""
 
     # Определяется название и id города:
     try:
